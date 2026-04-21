@@ -14,7 +14,7 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Pakistan is our homeland</h1>
+          <h4>Pakistan is our homeland</h4>
           <p>Get started</p>
           <p>Start building your React application with Vite.</p>
         </div>
