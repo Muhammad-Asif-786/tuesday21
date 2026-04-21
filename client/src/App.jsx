@@ -15,7 +15,7 @@ function App() {
         </div>
         <div>
           <h1>Get started</h1>
-          
+          <p>Start building your React application with Vite.</p>
         </div>
       </section>
     </>
